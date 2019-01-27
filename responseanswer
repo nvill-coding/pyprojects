@@ -1,7 +1,10 @@
 [
-  {
-    "action": "conversation",
-    "name": "nexmo-conference-standard",
-    "record": "true"
-  }
+    {
+        "action": "talk",
+        "text": "You are joining a conference that was created using Nexmo's Voice API."
+    },
+    {
+        "action": "conversation",
+        "name": "nexmo-conference"
+    }
 ]
